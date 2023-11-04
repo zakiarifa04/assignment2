@@ -1,0 +1,13 @@
+.active {
+    background-color: #51e0d2ac;
+  }
+  .navigation li{
+    margin-right: 200px;
+ }
+ .costpic{
+  height: 300px;
+  width: 300px;
+  display: flex;
+  gap: 30px;
+
+ }

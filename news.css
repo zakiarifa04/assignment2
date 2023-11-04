@@ -1,0 +1,12 @@
+.active {
+    background-color: #51e0d2ac;
+  }
+  .navigation li{
+    margin-right: 200px;
+ }
+ .grid-content{
+    display: grid;
+    gap: 50px;
+    grid-template-columns: 1fr 1fr 1fr;
+ }
+ 
